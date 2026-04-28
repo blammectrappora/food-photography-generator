@@ -75,3 +75,12 @@ node foodphotographygenerator.js "your prompt" --token "$NETA_TOKEN"
 
 The `--token` flag is the only way to provide credentials — the script does not read environment variables or local files.
 
+## Example Output
+
+```bash
+node foodphotographygenerator.js "professional food photography, overhead shot of a gourmet dish on rustic ceramic plate, natural soft window light, shallow depth of field, vibrant fresh ingredients, garnishes and herbs, steam rising, warm golden hour tones, restaurant-quality plating, magazine editorial style, 50mm lens look, appetizing color grading"
+```
+
+![Example output](https://oss.talesofai.cn/picture/e9429fc1-591d-4b7e-8b16-46449fe9745f.webp)
+
+> Prompt: *"professional food photography, overhead shot of a gourmet dish on rustic ceramic plate, natural soft window light, shallow depth of field, vibrant fresh ingredients, garnishes and herbs, steam rising, warm golden hour tones, restaurant-quality plating, magazine editorial style, 50mm lens look, appetizing color grading"*
